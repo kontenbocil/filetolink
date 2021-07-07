@@ -1,8 +1,8 @@
-[![Issues](https://img.shields.io/github/issues/deryl/filetolink?style=for-the-badge&color=green)](https://github.com/deryl/filetolink/issues)
-[![Forks](https://img.shields.io/github/forks/deryl/filetolink?style=for-the-badge&color=green)](https://github.com/deryl/filetolink/fork)
-[![Stars](https://img.shields.io/github/stars/deryl/filetolink?style=for-the-badge&color=green)](https://github.com/deryl/filetolink)
-[![Size](https://img.shields.io/github/repo-size/deryl/filetolink?style=for-the-badge&color=green)](https://github.com/deryl/filetolink)
-[![Contributors](https://img.shields.io/github/contributors/deryl/filetolink?style=for-the-badge&color=green)](https://github.com/derylprojectss/filetolink)
+[![Issues](https://img.shields.io/github/issues/derylprojects/filetolink?style=for-the-badge&color=green)](https://github.com/derylprojects/filetolink/issues)
+[![Forks](https://img.shields.io/github/forks/derylprojects/filetolink?style=for-the-badge&color=green)](https://github.com/derylprojects/filetolink/fork)
+[![Stars](https://img.shields.io/github/stars/derylprojects/filetolink?style=for-the-badge&color=green)](https://github.com/derylprojects/filetolink)
+[![Size](https://img.shields.io/github/repo-size/derylprojects/filetolink?style=for-the-badge&color=green)](https://github.com/derylprojects/filetolink)
+[![Contributors](https://img.shields.io/github/contributors/derylprojects/filetolink?style=for-the-badge&color=green)](https://github.com/derylprojects/filetolink)
 
 
 # UPLOAD
