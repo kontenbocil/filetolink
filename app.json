@@ -1,0 +1,19 @@
+{
+    "name": "FileKeLink",
+    "description": "Mudsh.",
+    "website": "https://t.me/deryluserbothelp",
+    "repository": "https://github.com/ggratisan/bottglink",
+    "env": {
+          "TG_BOT_TOKEN": {"description": "Token botmu dari botfather","required": true}
+    },
+    "buildpacks": [
+      {"url": "heroku/python"}
+    ],
+    "formation": {
+      "worker": {
+        "quantity": 1,
+        "size": "free"
+      }
+    },
+    "stack": "heroku-20"
+  }
