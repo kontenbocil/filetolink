@@ -3,6 +3,7 @@
     "description": "Mudsh.",
     "website": "https://t.me/deryluserbothelp",
     "repository": "https://github.com/ggratisan/bottglink",
+    "logo": "https://i.ibb.co/BPFxDXx/photo-2021-07-09-11-55-52.jpg",
     "env": {
           "TG_BOT_TOKEN": {"description": "Token botmu dari botfather","required": true}
     },
