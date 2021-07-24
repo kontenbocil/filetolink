@@ -10,7 +10,7 @@ def short(url):
 
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
-    bot.reply_to(message, 'Hai! Kirim file untuk di pendekkan \n Jangan lupa join @derylproject untuk mendapatkan uang')
+    bot.reply_to(message, 'Hai! Kirim file untuk di pendekkan \n Jangan lupa join @derylcode untuk mendapatkan info terbaru 📣')
 
 @bot.message_handler(commands=['help'])
 def send_welcome(message):
