@@ -10,11 +10,11 @@ def short(url):
 
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
-    bot.reply_to(message, 'Hai! Kirim file untuk di pendekkan \n Jangan lupa join @derylcode untuk mendapatkan info terbaru 📣')
+    bot.reply_to(message, 'Hai! Kirim file untuk di pendekkan \n Jangan lupa Subscribe.\nhttps://www.youtube.com/channel/UCPd9_ZT97R471WWRS01q9lg ya 📣')
 
 @bot.message_handler(commands=['help'])
 def send_welcome(message):
-    bot.reply_to(message, 'Kirim file dan saya akan mengrimkanmu linknya \n Join @derylproject')    
+    bot.reply_to(message, 'Kirim file dan saya akan mengrimkanmu linknya \n Subscribe https://www.youtube.com/channel/UCPd9_ZT97R471WWRS01q9lg')    
 
 @bot.message_handler(content_types=['photo', 'video', 'audio', 'document'])
 def file_sent(message):
